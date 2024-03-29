@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="" android:icon="@drawable/baseline_menu_24"
+        android:id="@+id/home"/>
+
+    <item android:title="" android:icon="@drawable/baseline_stars_24"
+        android:id="@+id/apk" />
+    <item android:title="" android:icon="@drawable/baseline_launch_24"
+        android:id="@+id/Telegram"/>
+    <item android:title="" android:icon="@drawable/baseline_headset_mic_24"/>
+    <item android:title="" android:icon="@drawable/baseline_share_24"
+        android:id="@+id/share"/>
+</menu>
